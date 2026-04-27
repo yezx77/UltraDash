@@ -1,0 +1,17 @@
+{
+    "id": 1221,
+    "name": "Deimos",
+    "author": "LSas4Y",
+    "creators": ["LSas4Y"],
+    "verifier": "LSas4Y",
+    "verification": "https://youtu.be/ZtaBlJOrZvE?si=ErgOvokjJvozEaVA",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "OMARCULIDELAS",
+            "link": "https://youtu.be/J---aiyznGQ?si=xJREK-g5PrTtMbpm",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
