@@ -1,0 +1,17 @@
+{
+    "id": 1209,
+    "name": "Electrical Failure",
+    "author": "skelly",
+    "creators": ["skelly"],
+    "verifier": "JamieJoestar",
+    "verification": "https://youtu.be/hggSf6iYkYw?si=zeL7SwO_m24eIgBE",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "yezxGD",
+            "link": "https://youtu.be/FWRnHjaZk8Y?si=KBX-atduzFrldWow",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
