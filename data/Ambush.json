@@ -1,0 +1,17 @@
+{
+    "id": 1662,
+    "name": "Ambush",
+    "author": "core",
+    "creators": ["core, gStellar"],
+    "verifier": "RinsibleDuke",
+    "verification": "https://www.youtube.com/watch?v=Rs6LzYOXeLg",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "No One",
+            "link": "https://youtu.be/J---aiyznGQ?si=FqWY_Jac2pURJavM",
+            "percent": 0,
+            "hz": 0
+        }
+    ]
+}
